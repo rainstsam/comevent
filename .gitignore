@@ -1,0 +1,12 @@
+.vscode
+.git
+easy-mock/logs/*
+mysql/logs/*
+mysql/data/*
+mongo/*
+redis/data/*
+nginx/opt/dist/*
+nginx/opt/log/*
+
+
+
